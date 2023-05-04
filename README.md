@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 
 ```mermaid
   graph TD;
-    😅-->🌱;
-    😅-->🛠;
-    🌱-->💬;
-    🛠-->💬;
+    Perfil-->Repositórios;
+    
+    Repositórios-->D;
+    
+    D-->E;
 ```
