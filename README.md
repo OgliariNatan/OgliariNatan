@@ -1,4 +1,4 @@
-### Olá, bem vindo ao meu perfil! 👋
+<h1> Olá, bem vindo ao meu perfil! 👋 </h1>
 
 <!--
 **OgliariNatan/OgliariNatan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 😅🌱🔭🛠🪚🪛
+<h2> Uso do perfil! </h2>
 
 ```mermaid
   graph TD;
     Perfil-->Repositórios;
+    Repositórios-->USO;
+    USO-->Gostou;
+    Gostou-->SIM;
+    SIM-->Curta;
+    SIM-->Divulgue;
+    SIM-->Contribue;
+    Gostou-->NÃO;
+    NÃO-->Sugira_mudanção;
     
-    Repositórios-->D;
-    
-    D-->E;
 ```
