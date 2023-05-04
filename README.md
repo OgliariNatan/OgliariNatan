@@ -30,3 +30,5 @@ Here are some ideas to get you started:
     NÃO-->Sugira_mudanção;
     
 ```
+<h3> Repositórios: </h3>
+https://img.shields.io/github/directory-file-count/OgliariNatan/OgliariNatan
