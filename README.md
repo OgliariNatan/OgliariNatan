@@ -18,6 +18,7 @@
     
 ```
 <h3> Repositórios: </h3>
+
 OgliariNatan: <img src="https://img.shields.io/github/directory-file-count/OgliariNatan/OgliariNatan?label=qtd_arquivos&style=plastic" />
 
 
@@ -25,3 +26,7 @@ OgliariNatan: <img src="https://img.shields.io/github/directory-file-count/Oglia
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" />
+
+<h5> Sobre </h5>
+<img src="https://github-readme-stats.vercel.app/api?username=OgliariNatan&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OgliariNatan" />
