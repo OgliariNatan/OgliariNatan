@@ -14,7 +14,7 @@
     SIM-->Divulgue;
     SIM-->Contribue;
     Gostou-->NÃO;
-    NÃO-->Sugira_mudanção;
+    NÃO-->Sugira_mudança;
     
 ```
 <h3> Repositórios: </h3>
