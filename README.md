@@ -37,4 +37,4 @@ OgliariNatan: <img src="https://img.shields.io/github/directory-file-count/Oglia
 <h4> Linguagens </h4>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="	https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black />
+<img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" />
