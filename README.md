@@ -1,22 +1,9 @@
 <h1> Olá, bem vindo ao meu perfil! 👋 </h1>
 
 
-😅🌱🔭🛠🪚🪛
-<h2> Uso do perfil! </h2>
+<h2> 😅🌱🔭🛠🪚🪛 </h2>
 
-```mermaid
-  graph TD;
-    Perfil-->Repositórios;
-    Repositórios-->USO;
-    USO-->Gostou;
-    Gostou-->SIM;
-    SIM-->Curta;
-    SIM-->Divulgue;
-    SIM-->Contribue;
-    Gostou-->NÃO;
-    NÃO-->Sugira_mudança;
-    
-```
+
 <h3> Repositórios: </h3>
 
 OgliariNatan: <img src="https://img.shields.io/github/directory-file-count/OgliariNatan/OgliariNatan?label=qtd_arquivos&style=plastic" /> \
