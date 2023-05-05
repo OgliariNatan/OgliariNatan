@@ -15,6 +15,9 @@ Projeto Integrador II: <img src="https://img.shields.io/github/directory-file-co
 
 
 <h4> Linguagens </h4>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" />
+
 [![OgliariNatan](https://github-readme-stats.vercel.app/api/top-langs/?username=OgliariNatan&hide=html&layout=compact=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 <h5> Sobre </h5>
 
