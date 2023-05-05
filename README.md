@@ -36,5 +36,9 @@ Projeto Integrador II: <img src="https://img.shields.io/github/directory-file-co
 #### Gráfico de contribuições
 [![OgliariNatan](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OgliariNatan)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OgliariNatan&theme=dracula)
 
-#### Contador de acesso do peerfil
+#### Contador de acesso do perfil
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOgliariNatan1212%2Fhit-counter" />
+
+#### Estatística de sequência
+
+[![OgliariNatan](https://github-readme-streak-stats.herokuapp.com/?user=OgliariNatan)](https://github-readme-streak-stats.herokuapp.com/?user=OgliariNatan&theme=cobalt)
