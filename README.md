@@ -1,10 +1,10 @@
-<h1> Olá, bem vindo ao meu perfil! 👋 </h1>
+# Olá, bem vindo ao meu perfil! 👋 
 
 
-<h2> 😅🌱🔭🛠🪚🪛 </h2>
+😅🌱🔭🛠🪚🪛 
 
 
-<h3> Repositórios: </h3>
+##  Repositórios:  
 
 OgliariNatan: <img src="https://img.shields.io/github/directory-file-count/OgliariNatan/OgliariNatan?label=qtd_arquivos&style=plastic" /> \
 Template UNOPAR: <img src="https://img.shields.io/github/directory-file-count/OgliariNatan/Template-UNOPAR?label=qtd_arquivos&style=plastic" /> \
@@ -14,14 +14,27 @@ Projeto Integrador II: <img src="https://img.shields.io/github/directory-file-co
 
 
 
-<h4> Linguagens </h4>
+#### Linguagens
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" />
 
 [![OgliariNatan](https://github-readme-stats.vercel.app/api/top-langs/?username=OgliariNatan&hide=html&layout=compact=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<h5> Sobre </h5>
+#### Sobre 
 
 
 [![card](https://github-readme-stats.vercel.app/api?username=OgliariNatan&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+#### Recompensas 
+[![OgliariNatan](https://github-profile-trophy.vercel.app/?username=OgliariNatan)](https://github-profile-trophy.vercel.app/?username=OgliariNatan&theme=dark)
 
+#### Gráfico de Contribuição
+[![OgliariNatan](https://github-readme-activity-graph.cyclic.app/graph?username=OgliariNatan)](https://github-readme-activity-graph.cyclic.app/graph?username=OgliariNatan&theme=xcode)
+
+#### Minhas essências.
+<img src="https://gists-readme.yizack.com/api?user=OgliariNatan" />
+
+#### Gráfico de contribuições
+[![OgliariNatan](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OgliariNatan)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OgliariNatan&theme=dracula)
+
+#### Contador de acesso do peerfil
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOgliariNatan1212%2Fhit-counter" />
