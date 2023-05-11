@@ -12,7 +12,7 @@ Programação em Python: <img src="https://img.shields.io/github/directory-file-
 Algoritimo e programação estruturada: <img src="https://img.shields.io/github/directory-file-count/OgliariNatan/Algoritimo-e-Programacao-Estruturada?label=qtd_arquivos&style=plastic" /> \
 Projeto Integrador II: <img src="https://img.shields.io/github/directory-file-count/OgliariNatan/projetointegrador_II?label=qtd_arquivos&style=plastic" /> 
 
-[![wakatime](https://wakatime.com/badge/github/OgliariNatan/OgliariNatan.svg)](https://wakatime.com/badge/github/OgliariNatan/OgliariNatan)
+[![wakatime](https://wakatime.com/badge/github/OgliariNatan/rotina_backup.svg)](https://wakatime.com/badge/github/OgliariNatan/rotina_backup)
 
 #### Linguagens
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
