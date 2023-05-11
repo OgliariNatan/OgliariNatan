@@ -1,6 +1,6 @@
 # Olá, bem vindo ao meu perfil! 👋 
 
-
+<img src="https://img.shields.io/github/license/OgliariNatan/OgliariNatan?color=violet&style=plastic" />
 😅🌱🔭🛠🪚🪛 
 
 
