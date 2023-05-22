@@ -45,13 +45,13 @@ Projeto Integrador II: <img src="https://img.shields.io/github/directory-file-co
 [![OgliariNatan](https://github-readme-streak-stats.herokuapp.com/?user=OgliariNatan)](https://github-readme-streak-stats.herokuapp.com/?user=OgliariNatan&theme=cobalt)
 
 
-<div> 
+
     <a href = "mailto:natanogliari@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="[https://bit.ly/linkedindaniel](https://br.linkedin.com/in/natan-ogliari-526591bb)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/OgliariNatan/OgliariNatan/blob/output/github-contribution-grid-snake.svg)
+  ![send](https://github.com/OgliariNatan/OgliariNatan/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+
 
 
 
