@@ -46,7 +46,7 @@ Projeto Integrador II: <img src="https://img.shields.io/github/directory-file-co
 
 <div> 
      <a href = "mailto:natanogliari@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-      <a href="[https://bit.ly/linkedindaniel](https://br.linkedin.com/in/natan-ogliari-526591bb)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+      <a href="[https://br.linkedin.com/in/natan-ogliari-526591bb](https://br.linkedin.com/in/natan-ogliari-526591bb)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 
