@@ -57,4 +57,4 @@ Projeto Integrador II: <img src="https://img.shields.io/github/directory-file-co
 
 
 ## Contribuições do meu Github :snake:
-![](https://github.com/ogliarinatan/ogliarinatan/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/Ogliarinatan/Ogliarinatan/blob/output/github-contribution-grid-snake2.svg)
