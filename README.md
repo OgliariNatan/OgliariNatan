@@ -1,7 +1,7 @@
-# Olá, bem vindo ao meu perfil! 👋 
+# Olá, bem vindo ao meu perfil! 👋
 
 <img src="https://img.shields.io/github/license/OgliariNatan/OgliariNatan?color=violet&style=plastic" />
-😅🌱🔭🛠🪚🪛 
+😅🌱🔭🛠🪚🪛
 
 
 ##  Repositórios:  
@@ -10,22 +10,28 @@ OgliariNatan: <img src="https://img.shields.io/github/directory-file-count/Oglia
 Template UNOPAR: <img src="https://img.shields.io/github/directory-file-count/OgliariNatan/Template-UNOPAR?label=qtd_arquivos&style=plastic" /> \
 Programação em Python: <img src="https://img.shields.io/github/directory-file-count/OgliariNatan/Programa-o_em_Python?label=qtd_arquivos&style=plastic" /> \
 Algoritimo e programação estruturada: <img src="https://img.shields.io/github/directory-file-count/OgliariNatan/Algoritimo-e-Programacao-Estruturada?label=qtd_arquivos&style=plastic" /> \
-Projeto Integrador II: <img src="https://img.shields.io/github/directory-file-count/OgliariNatan/projetointegrador_II?label=qtd_arquivos&style=plastic" /> 
+Projeto Integrador II: <img src="https://img.shields.io/github/directory-file-count/OgliariNatan/projetointegrador_II?label=qtd_arquivos&style=plastic" />
 
 
 [![wakatime](https://wakatime.com/badge/github/OgliariNatan/Programa-o_em_Python.svg)](https://wakatime.com/badge/github/OgliariNatan/Programa-o_em_Python)
 
 #### Linguagens
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> - <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" />
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="Raspberry Pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
+<img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+
 
 [![OgliariNatan](https://github-readme-stats.vercel.app/api/top-langs/?username=OgliariNatan&hide=html&layout=compact=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-#### Sobre 
+#### Sobre
 
 
 [![card](https://github-readme-stats.vercel.app/api?username=OgliariNatan&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Recompensas 
+#### Recompensas
 [![OgliariNatan](https://github-profile-trophy.vercel.app/?username=OgliariNatan)](https://github-profile-trophy.vercel.app/?username=OgliariNatan&theme=dark)
 
 #### Gráfico de Contribuição
@@ -51,4 +57,3 @@ Projeto Integrador II: <img src="https://img.shields.io/github/directory-file-co
 ![](https://github.com/ogliarinatan/ogliarinatan/blob/output/github-contribution-grid-snake.svg)
 
 <a href="https://activity-graph.herokuapp.com/graph?username=ogliarinatan"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ogliarinatan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
