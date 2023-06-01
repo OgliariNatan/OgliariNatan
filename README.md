@@ -58,5 +58,3 @@ Projeto Integrador II: <img src="https://img.shields.io/github/directory-file-co
 
 ## :snake: Contribuições do meu Github :snake:
 ![](https://github.com/ogliarinatan/ogliarinatan/blob/output/github-contribution-grid-snake.svg)
-
-<a href="https://activity-graph.herokuapp.com/graph?username=ogliarinatan"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ogliarinatan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
