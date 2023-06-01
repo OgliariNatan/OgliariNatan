@@ -16,7 +16,7 @@ jobs:
         with:
           github_user_name: Ogliarinatan
           #svg_out_path: dist/github-contribution-grid-snake.svg
-          svg_out_path: https://github.com/OgliariNatan/OgliariNatan/tree/main/.github/github-contribution-grid-snake.svg
+          svg_out_path: https://github.com/OgliariNatan/OgliariNatan/github-contribution-grid-snake.svg
           #snake_color: 'blue'
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
