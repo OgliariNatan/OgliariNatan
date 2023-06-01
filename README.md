@@ -16,7 +16,7 @@ Projeto Integrador II: <img src="https://img.shields.io/github/directory-file-co
 [![wakatime](https://wakatime.com/badge/github/OgliariNatan/Programa-o_em_Python.svg)](https://wakatime.com/badge/github/OgliariNatan/Programa-o_em_Python)
 
 #### Linguagens
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> - <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" />
 
 [![OgliariNatan](https://github-readme-stats.vercel.app/api/top-langs/?username=OgliariNatan&hide=html&layout=compact=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
