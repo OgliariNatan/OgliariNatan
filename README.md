@@ -28,6 +28,8 @@ Projeto Integrador II: <img src="https://img.shields.io/github/directory-file-co
 [![OgliariNatan](https://github-readme-stats.vercel.app/api/top-langs/?username=OgliariNatan&hide=html&layout=compact=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 #### Sobre
 
+[![GitHub followers](https://img.shields.io/github/followers/Ogliarinatan?label=GitHub&logo=Github&style=for-the-badge)](https://github.com/Ogliarinatan/)
+
 
 [![card](https://github-readme-stats.vercel.app/api?username=OgliariNatan&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
