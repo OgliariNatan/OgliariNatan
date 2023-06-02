@@ -59,6 +59,9 @@ Projeto Integrador II: <img src="https://img.shields.io/github/directory-file-co
 ## Contribuições do meu Github :snake:
 ![Snake animation](https://github.com/OgliariNatan/OgliariNatan/blob/output/github-contribution-grid-snake.svg)
 
+![snake](https://platane.github.io/snk/)
+
+
 ## Repositórios Fixados
 
 <a href="https://github.com/OgliariNatan/ng-limeade">  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=OgliariNatan&repo=zeniteSolar&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
