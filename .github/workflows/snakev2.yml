@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
-      - uses: Platane/snk@v2
+      - uses: OgliariNatan/snk@v2
         with:
           # github user name to read the contribution graph from (**required**)
           # using action context var `github.repository_owner` or specified user
@@ -30,7 +30,7 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?color_snake=orange&color_dots=#575757,#74cc8f,#44a662,#228240,#065e21
             dist/ocean.svg?color_snake=orange&color_dots=rgba(191,214,246,0.2),#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-            
+
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
