@@ -15,7 +15,7 @@ Projeto Integrador II: <img src="https://img.shields.io/github/directory-file-co
 
 [![wakatime](https://wakatime.com/badge/github/OgliariNatan/Programa-o_em_Python.svg)](https://wakatime.com/badge/github/OgliariNatan/Programa-o_em_Python)
 
-#### Linguagens
+#### Caixa de ferramantas
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" />
@@ -34,11 +34,10 @@ Projeto Integrador II: <img src="https://img.shields.io/github/directory-file-co
 
 [![card](https://github-readme-stats.vercel.app/api?username=OgliariNatan&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Recompensas
 [![OgliariNatan](https://github-profile-trophy.vercel.app/?username=OgliariNatan)](https://github-profile-trophy.vercel.app/?username=OgliariNatan&theme=dark)
 
 
-#### Gráfico de contribuições
+### Gráfico de contribuições
 [![OgliariNatan](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OgliariNatan)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OgliariNatan&theme=dracula)
 
 #### Contador de acesso do perfil
@@ -49,7 +48,7 @@ Projeto Integrador II: <img src="https://img.shields.io/github/directory-file-co
 [![OgliariNatan](https://github-readme-streak-stats.herokuapp.com/?user=OgliariNatan)](https://github-readme-streak-stats.herokuapp.com/?user=OgliariNatan&theme=cobalt)
 
 
-## Repositórios Fixados
+### Repositórios Fixados
 
 <a href="https://github.com/OgliariNatan/ng-limeade">  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=OgliariNatan&repo=zeniteSolar&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /> </a>
 <a href="https://github.com/OgliariNatan/ng-limeade">  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=OgliariNatan&repo=Template-UNOPAR&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /> </a>
