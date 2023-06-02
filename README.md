@@ -54,17 +54,8 @@ Projeto Integrador II: <img src="https://img.shields.io/github/directory-file-co
 [![OgliariNatan](https://github-readme-streak-stats.herokuapp.com/?user=OgliariNatan)](https://github-readme-streak-stats.herokuapp.com/?user=OgliariNatan&theme=cobalt)
 
 
-
-
-## Contribuições do meu Github :snake:
-![Snake animation](https://github.com/OgliariNatan/OgliariNatan/blob/output/github-contribution-grid-snake.svg)
-
-![snake](https://github-OgliariNatan-contribution.svg)
-
-
 ## Repositórios Fixados
 
 <a href="https://github.com/OgliariNatan/ng-limeade">  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=OgliariNatan&repo=zeniteSolar&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /> </a>
-
-
 <a href="https://github.com/OgliariNatan/ng-limeade">  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=OgliariNatan&repo=Template-UNOPAR&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /> </a>
+<a href="https://github.com/OgliariNatan/ng-limeade">  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=OgliariNatan&repo=rotina_backup&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /> </a>
