@@ -37,11 +37,6 @@ Projeto Integrador II: <img src="https://img.shields.io/github/directory-file-co
 #### Recompensas
 [![OgliariNatan](https://github-profile-trophy.vercel.app/?username=OgliariNatan)](https://github-profile-trophy.vercel.app/?username=OgliariNatan&theme=dark)
 
-#### Gráfico de Contribuição
-[![OgliariNatan](https://github-readme-activity-graph.cyclic.app/graph?username=OgliariNatan)](https://github-readme-activity-graph.cyclic.app/graph?username=OgliariNatan&theme=xcode)
-
-#### Minhas essências.
-<img src="https://gists-readme.yizack.com/api?user=OgliariNatan" />
 
 #### Gráfico de contribuições
 [![OgliariNatan](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OgliariNatan)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OgliariNatan&theme=dracula)
