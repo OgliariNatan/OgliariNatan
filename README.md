@@ -14,9 +14,6 @@
 
 
 [![OgliariNatan](https://github-readme-stats.vercel.app/api/top-langs/?username=OgliariNatan&hide=html&layout=compact=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<p> APAGAR </p>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OgliariNatan&repo=github-readme-stats)](https://github.com/OgliariNatan/github-readme-stats)
-
 
 #### Sobre
 
