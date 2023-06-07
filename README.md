@@ -45,3 +45,22 @@
 <a href="https://github.com/OgliariNatan/ng-limeade">  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=OgliariNatan&repo=Programa-o_em_Python&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /> </a>
 <a href="https://github.com/OgliariNatan/ng-limeade">  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=OgliariNatan&repo=-ScientificComputing&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /> </a>
 <a href="https://github.com/OgliariNatan/ng-limeade">  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=OgliariNatan&repo=projetointegrador_II&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /> </a>
+
+
+<details>
+<summary>📈 Stats</summary>
+<br>
+My Github Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OgliariNatan&theme=dracula)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OgliariNatan&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OgliariNatan&theme=dracula)
+
+
+<br>
+Currently Coding & Listening to:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11159336621&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/11159336621)
+
+</details>
