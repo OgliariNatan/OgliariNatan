@@ -48,15 +48,14 @@
 
 
 <details>
-<summary>📈 Stats</summary>
+<summary>📈 Estatísticas </summary>
 <br>
-My Github Stats
+Minhas estatísticas do GitHub
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OgliariNatan&theme=dracula)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OgliariNatan&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OgliariNatan&theme=dracula)
-
 
 <br>
 
