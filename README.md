@@ -18,7 +18,7 @@
 
 <details>
 <summary> IDE </summary>
-<img alt="ATOM" src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"/>
+<img alt="ATOM" src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"/> <img alt="COLAB" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
 </details>
 
 [![OgliariNatan](https://github-readme-stats.vercel.app/api/top-langs/?username=OgliariNatan&hide=html&layout=compact=true&theme=dracula)](https://github.com/OgliariNatan/github-readme-stats)
