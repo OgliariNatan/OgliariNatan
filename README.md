@@ -63,3 +63,8 @@ Minhas estatísticas do GitHub
 </a>
 
 </details>
+<p align="center">
+  <a href="https://github.com/wervlad">
+    <img src="https://komarev.com/ghpvc/?username=OgliariNatan&color=blue&style=flat)" />
+  </a>
+</p>
