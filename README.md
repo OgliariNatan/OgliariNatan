@@ -29,7 +29,14 @@
 [![OgliariNatan](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OgliariNatan)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OgliariNatan&theme=dracula)
 
 #### Contador de acesso do perfil
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOgliariNatan1212%2Fhit-counter" />
+
+<p align="center">
+  <a href="https://github.com/OgliariNatan">
+    <img src="https://komarev.com/ghpvc/?username=OgliariNatan&color=blue&style=flat)" />
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOgliariNatan1212%2Fhit-counter" />
+  </a>
+</p>
+
 
 #### Estatística de sequência
 
@@ -63,8 +70,3 @@ Minhas estatísticas do GitHub
 </a>
 
 </details>
-<p align="center">
-  <a href="https://github.com/OgliariNatan">
-    <img src="https://komarev.com/ghpvc/?username=OgliariNatan&color=blue&style=flat)" />
-  </a>
-</p>
