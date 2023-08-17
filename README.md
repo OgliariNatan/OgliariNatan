@@ -1,6 +1,8 @@
 # Olá, bem vindo ao meu perfil! 👋
 
 <img src="https://img.shields.io/github/license/OgliariNatan/OgliariNatan?color=violet&style=plastic" />
+
+<img src="fotos/esta.png" alt="Meu avatar" />
 😅🌱🔭🛠🪚🪛
 
 #### Caixa de ferramentas 🪚
