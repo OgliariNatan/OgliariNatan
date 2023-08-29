@@ -2,6 +2,8 @@
 
 <img src="https://img.shields.io/github/license/OgliariNatan/OgliariNatan?color=violet&style=plastic" />
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <img src="fotos/esta.png" alt="Meu avatar" />
 😅🌱🔭🛠🪚🪛
 
