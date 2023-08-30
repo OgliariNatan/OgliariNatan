@@ -146,6 +146,8 @@ If things goes well, this section should automatically be replaced by a list of 
             </a></div>
 <br />
 
-<div align="center"> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) </div>
+<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radica" align="center" /></div>
+
+
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
