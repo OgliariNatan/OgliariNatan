@@ -6,10 +6,10 @@
 ### <div align="center">Sou o Natan e atualmente estou cursando Engenharia de Software🚀⌛</div>  
 
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 Atualmente estou aprofundando meus conhecimentos em novas linguegens de programação.  
 
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Sou apaixonado por projetar e desenhar leiaute de hardware, em IoT.  
 
 
 - ⚡ Fun fact: I use tabs over spaces  
