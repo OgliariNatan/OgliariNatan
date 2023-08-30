@@ -2,6 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
+<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radica" align="center" /></div>
 
 ### <div align="center">Sou o Natan e atualmente estou cursando Engenharia de Software🚀⌛</div>  
 
@@ -146,7 +147,7 @@ If things goes well, this section should automatically be replaced by a list of 
             </a></div>
 <br />
 
-<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radica" align="center" /></div>
+
 
 
 ----
