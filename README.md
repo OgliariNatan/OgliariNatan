@@ -119,10 +119,6 @@
 <div align="center"><a href="https://github.com/OgliariNatan"><img src="https://github-stats-alpha.vercel.app/api?username=OgliariNatan&cc=22272e&tc=37BCF6&ic=fff&bc=0000" align="center" /> </a></div>
 
 
-<a href="https://github.com/OgliariNatan">
-    <img src="https://github-stats-alpha.vercel.app/api?username=OgliariNatan&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
-
 <br/>  
 
 
