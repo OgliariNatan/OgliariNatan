@@ -13,7 +13,7 @@
 - ⚡ Sou apaixonado por projetar e desenhar leiaute de hardware, em IoT.  
 
 
-- ❓ Possui algum projeto de hardware em mente? Caso queira ajuda, comente na Issues, ou crie um repositório e me adicione.
+- ❓ Possui algum projeto de hardware em mente? Caso queira ajuda, abra uma Releases, ou crie um repositório e me adicione.
 
 
 <br/>  
