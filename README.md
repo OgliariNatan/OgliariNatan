@@ -10,10 +10,10 @@
 - 🌱 Atualmente estou aprofundando meus conhecimentos em novas linguegens de programação.  
 
 
-- ❓ Sou apaixonado por projetar e desenhar leiaute de hardware, em IoT.  
+- ⚡ Sou apaixonado por projetar e desenhar leiaute de hardware, em IoT.  
 
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ❓ Possui algum projeto de hardware em mente? Caso queira ajuda, comente na Issues, ou crie um repositório e me adicione.
 
 
 <br/>  
