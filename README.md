@@ -17,9 +17,9 @@
 
 
 <br/>  
-<p>
-<img src="fotos/esta.png" alt="avatar" align="middle" height="50" width="50">
-</p>
+<center>
+<img src="fotos/esta.png" alt="avatar" height="50" width="50">
+</center>
 
 ## Conjuntos de habilidades e interesses  
 <table><tr><td valign="top" width="33%">
