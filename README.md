@@ -18,6 +18,7 @@
 
 <br/>  
 
+<img src="fotos/esta.png" alt="avatar" height="42" width="42">
 
 ## Conjuntos de habilidades e interesses  
 <table><tr><td valign="top" width="33%">
