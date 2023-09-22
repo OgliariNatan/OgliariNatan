@@ -146,5 +146,3 @@
                 />
             </a></div>
 <br />
-
-<div align="center">Gerado com base no <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
