@@ -7,7 +7,7 @@
 ### <div align="center">Sou o Natan e atualmente estou cursando Engenharia de Software🚀⌛</div>  
 
 
-- 🌱 Atualmente estou aprofundando meus conhecimentos em novas linguegens de programação.  
+- 🌱 Atualmente estou aprofundando meus conhecimentos em novas linguagens de programação.  
 
 
 - ⚡ Sou apaixonado por projetar e desenhar leiaute de hardware, em IoT.  
