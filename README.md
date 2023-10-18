@@ -21,6 +21,7 @@
 
 <div align="center"><img src="fotos/esta.png" align="center" height="100" width="100" /></div>  
 
+[holopin](https://holopin.io/@ogliarinatan)
 
 ## Conjuntos de habilidades e interesses  
 <table><tr><td valign="top" width="33%">
