@@ -96,6 +96,8 @@
 <br/>  
 
 
+![Natan Ogliari](https://github-readme-stats.vercel.app/api?username=Ogliarinatan&theme=flagindia&count_private=true&include_all_commits=true&show_icons=true&hide=contribs)
+
 ## Conecte-se a min  
 <div align="center">
 <a href="https://github.com/ogliarinatan" target="_blank">
