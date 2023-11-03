@@ -122,6 +122,7 @@
 
 <div align="center"><a href="https://github.com/OgliariNatan"><img src="https://github-stats-alpha.vercel.app/api?username=OgliariNatan&cc=22272e&tc=37BCF6&ic=fff&bc=0000" align="center" /> </a></div>
 
+![ogliarinatan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ogliarinatan&theme=dracula&hide_border=true)
 
 <br/>  
 
