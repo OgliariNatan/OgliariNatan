@@ -129,7 +129,10 @@
 
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ogliarinatan&theme=dracula&hide_border=true" align="center" /></div>  
 
-[![Natan Ogliari's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ogliarinatan&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ogliarinatan&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
 
 <br/>  
 
