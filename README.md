@@ -129,7 +129,7 @@
 
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ogliarinatan&theme=dracula&hide_border=true" align="center" /></div>  
 
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ogliarinatan&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![OgliariNatan](https://github-readme-activity-graph.vercel.app/graph?username=ogliarinatan&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
