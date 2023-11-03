@@ -126,8 +126,7 @@
 <div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OgliariNatan" align="center" /></div>
 
 <div align="center"><a href="https://github.com/OgliariNatan"><img src="https://github-stats-alpha.vercel.app/api?username=OgliariNatan&cc=22272e&tc=37BCF6&ic=fff&bc=0000" align="center" /> </a></div>
-* ytsd
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ogliarinatan&theme=dracula&hide_border=true" align="center" /></div>  
+
 
 <div align="center"> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ogliarinatan&theme=dark&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a> </div>
 
