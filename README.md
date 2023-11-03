@@ -129,6 +129,8 @@
 
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ogliarinatan&theme=dracula&hide_border=true" align="center" /></div>  
 
+<div align="center"> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ogliarinatan&theme=dark&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a> </div>
+
 [![OgliariNatan](https://github-readme-activity-graph.vercel.app/graph?username=ogliarinatan&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ogliarinatan)](https://github.com/ryo-ma/github-profile-trophy)
