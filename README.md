@@ -1,3 +1,7 @@
+
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=abhir9&hide_border=true&area=true&point=transparent&theme=react-dark" /> </div>
+
+
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
