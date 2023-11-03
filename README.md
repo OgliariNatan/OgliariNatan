@@ -116,6 +116,9 @@
 
 
 ## Github Stats  
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ogliarinatan?cardType=octocat&theme=github-dark&preferLogin=true&Text=4F50DD)](https://git.io/awesome-stats-card)
+
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ogliarinatan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogliarinatan&hide_border=true&layout=compact" align="center" /></div>  
