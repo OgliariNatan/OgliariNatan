@@ -6,17 +6,14 @@
 
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radica" align="center" /></div>
 
-### <div align="center">Sou o Natan e atualmente estou cursando Engenharia de Software🚀⌛</div>  
+### <div align="center"> Olá, sou o Natan 📟 e atualmente estou cursando Engenharia de Software🚀⌛</div>  
 
 
 - 🌱 Atualmente estou aprofundando meus conhecimentos em novas linguagens de programação.  
 
-
 - ⚡ Sou apaixonado por projetar e desenhar leiaute de hardware, em IoT.  
 
-
 - ❓ Possui algum projeto de hardware em mente? Caso queira ajuda, abra uma Releases, ou crie um repositório e me adicione.
-
 
 <br/>  
 
