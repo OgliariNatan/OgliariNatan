@@ -6,7 +6,7 @@
 
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radica" align="center" /></div>
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="natanogliag" data-color="#BD5FFF" data-emoji="📦" data-font="Cookie" data-text="Compre-me um pacote!" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" </script>
+<a href = "https://www.buymeacoffee.com/natanogliag" target = "_blank" > < img src = " https://cdn.buymeacoffee.com/buttons/v2/default-violet.png " alt = _ _ _ _ _ Estilo "Compre-me um café" = "altura: 60px !importante;largura: 217px !importante;" >< / a >   
 
 
 ### <div align="center"> Olá, sou o Natan 📟 e atualmente estou cursando Engenharia de Software🚀⌛</div>  
