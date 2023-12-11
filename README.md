@@ -7,10 +7,9 @@
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radica" align="center" /></div>
 
 
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 
+<a href = "https://www.buymeacoffee.com/natanogliag" target = "_blank" > < img src = " https://cdn.buymeacoffee.com/buttons/v2/default-violet.png " alt = _ _ _ _ _ Estilo "Compre-me um café" = "altura: 60px !importante;largura: 217px !importante;" >< / a >   
 
-<a href = "https://www.buymeacoffee.com/natanogliag" target="_blank"> <img src=" https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" Compre-me um café/></a>   
 
 
 ### <div align="center"> Olá, sou o Natan 📟 e atualmente estou cursando Engenharia de Software🚀⌛</div>  
