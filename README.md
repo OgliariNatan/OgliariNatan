@@ -6,7 +6,11 @@
 
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radica" align="center" /></div>
 
-<a href = "https://www.buymeacoffee.com/natanogliag" target = "_blank" > < img src = " https://cdn.buymeacoffee.com/buttons/v2/default-violet.png " Estilo "Compre-me um café" = "altura: 60px !importante;largura: 217px" >< / a >   
+
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+
+
+<a href = "https://www.buymeacoffee.com/natanogliag" target="_blank"> <img src=" https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" Compre-me um café 217px" >< / a >   
 
 
 ### <div align="center"> Olá, sou o Natan 📟 e atualmente estou cursando Engenharia de Software🚀⌛</div>  
@@ -23,7 +27,7 @@
 
 <div align="center"><img src="fotos/esta.png" align="center" height="100" width="100" /></div>  
 
-- [holopin](https://holopin.io/@ogliarinatan)
+
 
 ## Conjuntos de habilidades e interesses  
 <table><tr><td valign="top" width="33%">
