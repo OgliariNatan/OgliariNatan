@@ -10,7 +10,7 @@
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 
 
-<a href = "https://www.buymeacoffee.com/natanogliag" target="_blank"> <img src=" https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" Compre-me um café 217px" >< / a >   
+<a href = "https://www.buymeacoffee.com/natanogliag" target="_blank"> <img src=" https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" Compre-me um café/></a>   
 
 
 ### <div align="center"> Olá, sou o Natan 📟 e atualmente estou cursando Engenharia de Software🚀⌛</div>  
