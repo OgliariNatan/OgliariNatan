@@ -6,6 +6,7 @@
 
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radica" align="center" /></div>
 
+<a href="https://www.buymeacoffee.com/natanogliag"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="HTML tutorial" style="width:42px;height:42px;"></a>
 
 
 <a href = "https://www.buymeacoffee.com/natanogliag" target = "_blank" > < img src = " https://cdn.buymeacoffee.com/buttons/v2/default-violet.png " alt = _ _ _ _ _ Estilo "Compre-me um café" = "altura: 60px !importante;largura: 217px !importante;" >< / a >   
