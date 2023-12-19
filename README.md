@@ -91,6 +91,11 @@
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
 <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
+
+<a href="https://www.altium.com/" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2cvOxH74s967zbWxZyHczP49KHbWucki-8z5sNQUA8TImRVZ7TCJZoJb2y-zgjczLnQc&usqp=CAU" alt="Altium" height="50" /></a>  
+
+
+
 </div>
 
 </td></tr></table>  
