@@ -93,6 +93,8 @@
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
 <a href="https://www.altium.com/" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2cvOxH74s967zbWxZyHczP49KHbWucki-8z5sNQUA8TImRVZ7TCJZoJb2y-zgjczLnQc&usqp=CAU" alt="Altium" height="50" /></a>  
 <a href="www.renesas.com" target="_blank"><img style="margin: 10px" src="https://embarcados.com.br/wp-content/uploads/2016/10/sk-s7g2.png.webp" alt="Sk-s7g2" height="50" /></a>  
+<a href="https://platformio.org/" target="_blank"><img style="margin: 10px" src="https://cdn.platformio.org/images/platformio-logo.17fdc3bc.png" alt="Sk-s7g2" height="50" /></a>
+
 
 
 </div>
