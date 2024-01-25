@@ -1,5 +1,3 @@
-
-
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
@@ -99,9 +97,12 @@
 </div>
 
 </td></tr></table>  
+<br>  
 
-<br/>  
+## Confira minhas organizações
 
+* <a href="https://github.com/casa-inteligente">Casa Inteligênte </a> <br>
+* <a href="https://github.com/ENGENHARIA-DE-SOFTWARE-UNOPAR">VBacharelado em ENGENHARIA DE SOFTWARE Pela UNOPAR </a> <br>
 
 ## Conecte-se a min  
 <div align="center">
