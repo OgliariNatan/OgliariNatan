@@ -138,7 +138,7 @@
 
 [![OgliariNatan](https://github-readme-activity-graph.vercel.app/graph?username=ogliarinatan&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ogliarinatan)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trofeus](https://github-profile-trophy.vercel.app/?username=ogliarinatan&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <br/>  
