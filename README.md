@@ -139,6 +139,7 @@
 
 [![Trofeus](https://github-profile-trophy.vercel.app/?username=ogliarinatan&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![wakatime](https://wakatime.com/badge/user/4ae96e12-8d84-4387-8ef7-419d5c72ebce.svg)](https://wakatime.com/@4ae96e12-8d84-4387-8ef7-419d5c72ebce)
 
 <br/>  
 
