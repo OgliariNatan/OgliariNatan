@@ -104,6 +104,9 @@
 
 * <a href="https://github.com/casa-inteligente">Casa Inteligênte </a> <br>
 * <a href="https://github.com/ENGENHARIA-DE-SOFTWARE-UNOPAR">Bacharelado em ENGENHARIA DE SOFTWARE Pela UNOPAR </a> <br>
+### Confira os meus gist
+
+* <a href="https://gist.github.com/ogliarinatan">Gist</a> <br>
 
 ## Conecte-se a min  
 <div align="center">
