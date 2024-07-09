@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 </br>
-<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radica" align="center" /></div>
+<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" align="center" /></div>
 
 <p align="center">
 <a href="https://www.buymeacoffee.com/natanogliag"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" align="center" alt="Pague-me um café!" style="width:200px;height:50px;"></a>
