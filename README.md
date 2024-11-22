@@ -93,8 +93,8 @@
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
 <a href="https://www.altium.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Altium_Designer_Logo.png" alt="Altium" height="50" /></a>  <a href="www.renesas.com" target="_blank"><img style="margin: 10px" src="https://embarcados.com.br/wp-content/uploads/2016/10/sk-s7g2.png.webp" alt="Sk-s7g2" height="50" /></a>  
 <a href="https://platformio.org/" target="_blank"><img style="margin: 10px" src="https://cdn.platformio.org/images/platformio-logo.17fdc3bc.png" alt="Sk-s7g2" height="50" /></a>
-<!-- <a href="https://www.apache.org/" target="_blank"><img style="margin: 10px" src="https://www.apache.org/img/asf-estd-1999-logo.jpg" alt="Altium" height="50" /></a> -->
-<a href="https://jrsoftware.org/isinfo.php" target="_blank"><img style="margin: 10px" src="https://camo.githubusercontent.com/40b82cc5e24a42ed865a157a18ae116d5c47acaf7dad121d1832e71cccc80df2/687474703a2f2f70726f6772616d61656e6c696e65612e6e65742f77702d636f6e74656e742f75706c6f6164732f323031372f31302f496e6e6f2d53657475702d436f6d70696c65722e706e67" alt="InnoSetup" height="50" /></a>
+ <a href="https://www.apache.org/" target="_blank"><img style="margin: 10px" src="https://www.apache.org/img/asf-estd-1999-logo.jpg" alt="Altium" height="50" /></a>
+<a href="https://jrsoftware.org/isinfo.php" target="_blank"><img style="margin: 10px" src="https://camo.githubusercontent.com/0b8ebef41cf06589e4bd5817788569c58ec0b2f03092b4de0a3babf8ff241bf1/687474703a2f2f70726f6772616d61656e6c696e65612e6e65742f77702d636f6e74656e742f75706c6f6164732f323031372f31302f496e6e6f2d53657475702d436f6d70696c65722e706e67" alt="InnoSetup" height="50" /></a>
 
 </div>
 
