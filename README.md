@@ -14,6 +14,8 @@
 
 - 🌱 Atualmente estou aprofundando meus conhecimentos em novas linguagens de programação.
 
+- :deciduous_tree: Desenvolvo aplicações em python para automatizar tarefas das mais variadas.
+
 - 👀 Sou muito bom e rápido em aprender linguagens de programação, mas sou muito ruim em aprender linguagens naturais. Agora estou aprendendo inglês para conversação.
 
 - ⚡💞️ Sou apaixonado por projetar e desenhar leiaute de hardware, em IoT.  
