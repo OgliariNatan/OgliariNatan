@@ -76,6 +76,7 @@
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+ <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIv9qjrQZFRiCMVQx6ukhb8c-aqJhDfgu4_C8p2YZuaqn3QYJWUDSTU8QOZ3iwvCWAtd0&usqp=CAU" alt="Django" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
