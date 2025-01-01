@@ -133,7 +133,7 @@
 
 <div align="center">   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=github-dark&preferLogin=true&Text=4F50DD">    <img  alt="ogliarinatan's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ogliarinatan?cardType=octocat&theme=github-dark&preferLogin=true&Text=4F50DD" />  </a> </div>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ogliarinatan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogliarinatan&hide_border=true&layout=compact" align="center" /></div>  
 
