@@ -119,42 +119,35 @@
 
 ## Github Stats  
 
-<div align="center">   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=github-dark&preferLogin=true&Text=4F50DD">    <img  alt="ogliarinatan's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ogliarinatan?cardType=octocat&theme=github-dark&preferLogin=true&Text=4F50DD" />  </a> </div>
+<div align="center">   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=github-dark&preferLogin=true&Text=4F50DD">    <img  alt="ogliarinatan" src="https://awesome-github-stats.azurewebsites.net/user-stats/ogliarinatan?cardType=octocat&theme=github-dark&preferLogin=true&Text=4F50DD&preferLogin=false" />  </a> </div>
 
 <!-- Refazer o card de linguagens -->
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogliarinatan&hide_border=true&layout=compact" align="center" /></div>  
+
+<br>
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogliarinatan&hide_border=true&layout=compact&langs_count=15&locale=pt-br&custom_title=Linguagens" align="center" /></div>
+<br>
 
 <div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OgliariNatan" align="center" /></div>
 
-<!-- <div align="center"><a href="https://github.com/OgliariNatan"><img src="https://github-stats-alpha.vercel.app/api?username=OgliariNatan&cc=22272e&tc=37BCF6&ic=fff&bc=0000" align="center" /> </a></div> -->
 
+<br>
 
 <div align="center"> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ogliarinatan&theme=dark&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a> </div>
 
-[![OgliariNatan](https://github-readme-activity-graph.vercel.app/graph?username=ogliarinatan&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![OgliariNatan](https://github-readme-activity-graph.vercel.app/graph?username=ogliarinatan&theme=dracula&custom_title=Gráfico%20de%20contribuição)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![Trofeus](https://github-profile-trophy.vercel.app/?username=ogliarinatan&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![wakatime](https://wakatime.com/badge/user/4ae96e12-8d84-4387-8ef7-419d5c72ebce.svg)](https://wakatime.com/@4ae96e12-8d84-4387-8ef7-419d5c72ebce)
 
 <br/>  
-
-<br/>  
-
-<br/>  
-
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ogliarinatan&&style=flat-square" align="center" />
-</div>  
-
-
 <br/>  
 
 <div align="center">
             <a href="https://www.buymeacoffee.com/natanogliag" target="_blank" style="display: inline-block;">
                 <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee"
+                    src="https://img.shields.io/badge/Doação-Me%20Pague%20um café!-yellow.svg?style=flat-square&logo=buymeacoffee"
                     align="center"
                 />
             </a></div>
