@@ -18,7 +18,7 @@
 
 - 👀 Sou muito bom e rápido em aprender linguagens de programação, mas sou muito ruim em aprender linguagens naturais. Agora estou aprendendo inglês para conversação.
 
-- ⚡💞️ Sou apaixonado por projetar e desenhar leiaute de hardware, em IoT.  
+- ⚡💞️ Sou apaixonado por projetar e desenhar leiaute de hardware.  
 
 - ❓ Possui algum projeto de hardware em mente? Caso queira ajuda, abra uma Releases, ou crie um repositório e me adicione.
 
