@@ -12,7 +12,7 @@
 #### <div align="center"> Engenheiro de Software em Formação, Apaixonado por IoT e Desenvolvimento de Hardware</div>  
 
 
-- 🌱 Atualmente estou aprofundando meus conhecimentos em novas linguagens de programação.
+- 🌱 Atualmente estou aprofundando meus conhecimentos em Django, indo além da ponta do [iceberg](https://adatech.dev.br/entenda-conceito-django-iceberg/).
 
 - :deciduous_tree::notebook_with_decorative_cover: Desenvolvo aplicações em python para automatizar tarefas das mais variadas.
 
