@@ -36,7 +36,7 @@ class OgliariNatan(self):
         self.aprendizagem = {
             'tecnico': ['Eletroeletrônica', 'Videira']
             'graduacao_interropida': ['Engenharia Eletrônica',],
-            'graduacao': ['Engenharia de Software',],
+            'graduando': ['Engenharia de Software',],
         },
         self.arquitetura = ['MVC',],
         self.codificacao = {
@@ -47,14 +47,20 @@ class OgliariNatan(self):
             'devops': ['Apache', 'Heroku'],
             'tools': ['GIT', 'GitHub'],
             'ides': ['Visual Studio Code', 'PyCharm'],
-            'misc': ['SCRUM', 'GNU/Linux', 'Windows']
+            'misc': ['SCRUM', 'GNU/Linux', 'Windows'],
+        },
+        self.hardware = {
+            'Plataformas' : ['Arduino', 'Raspberry PI', 'Texas LauchPad', 'Renesas Synergy', 'Placa STM32'],
+            'Projeto de hardware' : ['Altium', 'isis']
+            'Simuladores' : ['LTspice', 'ares']
         },
         self.projetos = {
             'luminaria': [ https://github.com/casa-inteligente/bolsaDePesquisa ][C, Atmega328p],
             'pdf_to_print': [ https://github.com/casa-inteligente/pdf_to_print ][Python, Kivy],
             'Samba': [ https://github.com/OgliariNatan/servidor-file-samba4 ][Samba, Linux Server],
             'Sorting_methods': [ https://github.com/OgliariNatan/Sorting_methods ][C],
-            'project_integrat': [ https://github.com/OgliariNatan/projetointegrador_II ][VHDL]
+            'project_integrat': [ https://github.com/OgliariNatan/projetointegrador_II ][VHDL],
+
         }
 
 
@@ -101,7 +107,7 @@ if __name__ == '__main__':
 
 [![OgliariNatan](https://github-readme-activity-graph.vercel.app/graph?username=ogliarinatan&theme=dracula&custom_title=Gráfico%20de%20contribuição&radius=16&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Trofeus](https://github-profile-trophy.vercel.app/?username=ogliarinatan&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![Trofeus](https://github-profile-trophy.vercel.app/?username=ogliarinatan&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy) -->
 <br>
 
 [![wakatime](https://wakatime.com/badge/user/4ae96e12-8d84-4387-8ef7-419d5c72ebce.svg)](https://wakatime.com/@4ae96e12-8d84-4387-8ef7-419d5c72ebce)
