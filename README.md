@@ -47,7 +47,7 @@ class OgliariNatan(self):
             'devops': ['Apache', 'Heroku'],
             'tools': ['GIT', 'GitHub'],
             'ides': ['Visual Studio Code', 'PyCharm'],
-            'misc': ['SCRUM', 'GNU/Linux', 'Windows'],
+            'misc': ['SCRUM', 'LaTex','GNU/Linux', 'Windows'],
         },
         self.hardware = {
             'Plataformas' : ['Arduino', 'Raspberry PI', 'Texas LauchPad', 'Renesas Synergy', 'Placa STM32'],
