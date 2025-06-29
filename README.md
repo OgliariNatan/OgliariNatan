@@ -41,7 +41,7 @@ class OgliariNatan(self):
         self.arquitetura = ['MVC',],
         self.codificacao = {
             'erp': ['django',],
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap','Jquery'],
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap','Jquery', 'Tailwind'],
             'backend': ['Python', 'Django'],
             'banco_de_dados': ['PostgreSQL', 'SQLite3'],
             'devops': ['Apache', 'Heroku'],
