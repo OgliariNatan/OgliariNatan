@@ -69,7 +69,7 @@ class OgliariNatan(self):
 
 
 if __name__ == '__main__':
-    me = OgliariNatan()
+    foguete_para_espaco = OgliariNatan()
 
 
 ```
