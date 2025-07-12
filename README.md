@@ -34,7 +34,7 @@ class OgliariNatan(self):
             'born': ['Brasil','Santa Catarina','Pinhalzinho',],
         },
         self.aprendizagem = {
-            'tecnico': ['Eletroeletrônica', 'Videira']
+            'tecnico': ['Eletroeletrônica',]
             'graduacao_interropida': ['Engenharia Eletrônica',],
             'graduando': ['Engenharia de Software',],
         },
@@ -47,11 +47,12 @@ class OgliariNatan(self):
             'devops': ['Apache', 'Heroku'],
             'tools': ['GIT', 'GitHub'],
             'ides': ['Visual Studio Code', 'PyCharm'],
-            'misc': ['SCRUM', 'LaTex','GNU/Linux', 'Windows'],
+            'misc': ['SCRUM', 'LaTex'],
+            'sistemas_operacionais': ['GNU/Linux', 'Windows'],
         },
         self.hardware = {
             'Plataformas' : ['Arduino', 'Raspberry PI', 'Texas LauchPad', 'Renesas Synergy', 'Placa STM32'],
-            'Projeto de hardware' : ['Altium', 'isis']
+            'Projeto_hardware' : ['Altium', 'isis']
             'Simuladores' : ['LTspice', 'ares']
         },
         self.projetos = {
