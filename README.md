@@ -34,24 +34,25 @@ class OgliariNatan(self):
             'born': ['Brasil','Santa Catarina','Pinhalzinho',],
         },
         self.aprendizagem = {
-            'tecnico': ['Eletroeletrônica', 'Videira']
+            'tecnico': ['Eletroeletrônica',]
             'graduacao_interropida': ['Engenharia Eletrônica',],
             'graduando': ['Engenharia de Software',],
         },
         self.arquitetura = ['MVC',],
         self.codificacao = {
             'erp': ['django',],
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap','Jquery'],
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap','Jquery', 'Tailwind'],
             'backend': ['Python', 'Django'],
             'banco_de_dados': ['PostgreSQL', 'SQLite3'],
             'devops': ['Apache', 'Heroku'],
             'tools': ['GIT', 'GitHub'],
             'ides': ['Visual Studio Code', 'PyCharm'],
-            'misc': ['SCRUM', 'GNU/Linux', 'Windows'],
+            'misc': ['SCRUM', 'LaTex'],
+            'sistemas_operacionais': ['GNU/Linux', 'Windows'],
         },
         self.hardware = {
             'Plataformas' : ['Arduino', 'Raspberry PI', 'Texas LauchPad', 'Renesas Synergy', 'Placa STM32'],
-            'Projeto de hardware' : ['Altium', 'isis']
+            'Projeto_hardware' : ['Altium', 'isis']
             'Simuladores' : ['LTspice', 'ares']
         },
         self.projetos = {
@@ -69,7 +70,7 @@ class OgliariNatan(self):
 
 
 if __name__ == '__main__':
-    me = OgliariNatan()
+    foguete_para_espaco = OgliariNatan()
 
 
 ```
