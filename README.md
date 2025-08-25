@@ -178,7 +178,7 @@ if __name__ == '__main__':
 ## 🎯 Objetivos para 2025
 
 - [ ] 🌐 Alcançar fluência conversacional em inglês
-- [ ] 🏗️ Finalizar sistema com o judiciário
+- [ ] 🏗️ Finalizar sistema com o judiciário. [Software como Serviço PIEVDCS](https://www.redecontraaviolencia.org)
 - [ ] 📚 Contribuir para 2 projetos open source
 - [ ] 🎓 Concluir graduação em Engenharia de Software
 - [ ] 💼 Conseguir primeira oportunidade como desenvolvedor full-stack
