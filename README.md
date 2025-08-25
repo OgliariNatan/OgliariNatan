@@ -52,6 +52,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em **Engenharia de Soft
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)
 ![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
+![Texas Instruments](https://img.shields.io/badge/-Texas%20Instruments-CC0000?style=flat&logo=texas-instruments&logoColor=white)
 
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -60,7 +61,16 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em **Engenharia de Soft
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
+<!-- ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white) -->
+![Hostinger](https://img.shields.io/badge/-Hostinger-ff4f7b?style=flat&logo=hostinger&logoColor=white)
+
+### Inteligencia Artificial para codificação
+![Copilot](https://img.shields.io/badge/-Copilot-008C4A?style=flat&logo=github&logoColor=white)
+
+### Inteligência Artificial para assistente virtual
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)
+![Ollama](https://img.shields.io/badge/-Ollama-00BFFF?style=flat&logo=openai&logoColor=white)
 
 </div>
 
@@ -76,7 +86,7 @@ Sistema de iluminação inteligente com Arduino e controle remoto
 ### 📄 [PDF to Print](https://github.com/casa-inteligente/pdf_to_print)
 Aplicação desktop para otimização de impressão de PDFs
 - **Tech Stack:** Python, Kivy
-- **Problema resolvido:** Geração automática de documentos prontos para impressão, possui outro que é privado que gera ofícios com base em relatórios.
+- **Problema resolvido:** Geração automática de documentos prontos para impressão, possui outro que é privado que gera ofícios com base em relatórios destinado a polícia penal.
 
 ### 🗂️ [Servidor Samba](https://github.com/OgliariNatan/servidor-file-samba4)
 Configuração completa de servidor de arquivos Linux
@@ -103,33 +113,33 @@ class OgliariNatan:
 
         self.formacao = {
             'tecnico': 'Eletroeletrônica',
-            'graduacao_interrompida': 'Engenharia Eletrônica',
+            'graduacao_interrompida': 'Engenharia Eletrônica - IFSC Florianópolis',
             'graduando': 'Engenharia de Software - UNOPAR',
         }
 
         self.especializacoes = {
-            'arquitetura': ['MVC'],
+            'arquitetura': ['MVC', 'ARM', 'RISC'],
             'metodologias': ['SCRUM', 'Desenvolvimento Ágil'],
             'documentacao': ['LaTeX', 'Markdown'],
         }
 
         self.hardware_skills = {
-            'plataformas': ['Arduino', 'Raspberry PI', 'Texas LaunchPad',
-                           'Renesas Synergy', 'STM32'],
+            'plataformas': ['Arduino', 'Raspberry PI', 'Texas LaunchPad', 'Renesas Synergy', 'STM32'],
             'design': ['Altium Designer', 'Proteus ISIS'],
             'simulacao': ['LTspice', 'Proteus ARES'],
         }
 
     def current_focus(self):
         return [
-            "Aprofundando conhecimentos em Django",
-            "Desenvolvendo projetos IoT para casa inteligente",
+            "Realizando uma incursão no iceberg do Django",
+            "Desenvolvendo projetos para automações de tarefas",
+            "Desenvolvendo uma Plataforma como Serviço para a comarca de Maravilha/SC",
             "Melhorando inglês para conversação",
             "Contribuindo para projetos open source"
         ]
 
     def __str__(self):
-        return f"{self.name} - Engenheiro de Software & IoT Developer"
+        return f"{self.name} - Engenheiro de Software & Engenheiro de Hardware"
 
 if __name__ == '__main__':
     developer = OgliariNatan()
