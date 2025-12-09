@@ -185,13 +185,14 @@ if __name__ == '__main__':
 
 ---
 
-## 🎯 Objetivos para 2025
+## 🎯 Objetivos para 2025-2027
 
 - [ ] 🌐 Alcançar fluência conversacional em inglês
 - [ ] 🏗️ Finalizar sistema com o judiciário. [Software como Serviço PIEVDCS](https://www.redecontraaviolencia.org)
-- [ ] 📚 Contribuir para 2 projetos open source
+- [ ] 📚 Contribuir para 2 projetos open source 
 - [ ] 🎓 Concluir graduação em Engenharia de Software
-- [ ] 💼 Conseguir primeira oportunidade como desenvolvedor full-stack
+- [ ] 🔗 Personalizar a ISO do ubuntu 24 [OS_Saracura](https://github.com/OgliariNatan/saracura-operating-system-customization)
+- [ ] 💼 Implementar soluções funcionais em instituições
 
 ---
 
