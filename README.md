@@ -98,9 +98,9 @@ Implementação e análise de algoritmos de ordenação
 - **Tech Stack:** C
 - **Foco:** Otimização e análise de complexidade
 
-### [Saracura-OS](https://github.com/OgliariNatan/saracura-operating-system-customization)
+### 🔗 [Saracura-OS](https://github.com/OgliariNatan/saracura-operating-system-customization)
 Customização do OS Ubuntu 24 LTS
-- **Tech Stack:** Shell
+- **Tech Stack:** Shell, manual de instrução
 - **Foco:** Analise profunda do OS UBUNTU, para personalização de ISO com aplicações e configurações personalizadas.
 ---
 
