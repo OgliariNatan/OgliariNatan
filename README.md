@@ -6,7 +6,7 @@
 <br>
 
 ### <div align="center"> Olá, sou o Natan Ogliari 🚀⌛</div>  
-#### <div align="center"> Engenheiro de Software em Formação | Apaixonado por IoT e Desenvolvimento de Hardware</div>  
+#### <div align="center"> Engenheiro de Software | Apaixonado por IoT e Desenvolvimento de Hardware</div>  
 
 <div align="center">
 
@@ -21,11 +21,11 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou um desenvolvedor apaixonado por tecnologia, com foco em **Engenharia de Software** e **IoT**. Minha jornada começou com eletrônica e evoluiu para o desenvolvimento de software, sempre mantendo a paixão por hardware. Gosto de criar soluções que conectam o mundo físico ao digital.
+Sou um desenvolvedor apaixonado por tecnologia, com foco em **Engenharia de Software** e **Hardware**. Minha jornada começou com eletrônica e evoluiu para o desenvolvimento de software, sempre mantendo a paixão por hardware. Gosto de criar soluções que conectam o mundo físico ao digital.
 
 - 🌱 **Atualmente aprofundando:** Django e desenvolvimento web avançado
-- 🔭 **Trabalhando em:** Projetos de automação e IoT
-- 🎯 **Objetivo 2025:** Dominar inglês para conversação e contribuir mais para projetos open source
+- 🔭 **Trabalhando em:** Projetos de automação de software
+- 🎯 **Objetivo 2025-2027:** Dominar inglês para conversação e contribuir mais para projetos open source
 - ⚡ **Fun fact:** Sou muito rápido em aprender linguagens de programação, mas luto com idiomas naturais! 😅
 
 ---
@@ -48,7 +48,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em **Engenharia de Soft
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
-### Hardware & IoT
+### Hardware
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)
 ![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
@@ -98,6 +98,10 @@ Implementação e análise de algoritmos de ordenação
 - **Tech Stack:** C
 - **Foco:** Otimização e análise de complexidade
 
+### [Saracura-OS](https://github.com/OgliariNatan/saracura-operating-system-customization)
+Customização do OS Ubuntu 24 LTS
+- **Tech Stack:** Shell
+- **Foco:** Analise profunda do OS UBUNTU, para personalização de ISO com aplicações e configurações personalizadas.
 ---
 
 ## 🎓 Formação e Experiência
@@ -114,7 +118,7 @@ class OgliariNatan:
         self.formacao = {
             'tecnico': 'Eletroeletrônica',
             'graduacao_interrompida': 'Engenharia Eletrônica - IFSC Florianópolis',
-            'graduando': 'Engenharia de Software - UNOPAR',
+            'graduacao': 'Engenharia de Software - UNOPAR',
         }
 
         self.especializacoes = {
@@ -139,7 +143,7 @@ class OgliariNatan:
         ]
 
     def __str__(self):
-        return f"{self.name} - Engenheiro de Software & Engenheiro de Hardware"
+        return f"{self.name} - Engenheiro de Software & Hardware"
 
 if __name__ == '__main__':
     developer = OgliariNatan()
@@ -190,9 +194,9 @@ if __name__ == '__main__':
 - [ ] 🌐 Alcançar fluência conversacional em inglês
 - [ ] 🏗️ Finalizar sistema com o judiciário. [Software como Serviço PIEVDCS](https://www.redecontraaviolencia.org)
 - [ ] 📚 Contribuir para 2 projetos open source 
-- [ ] 🎓 Concluir graduação em Engenharia de Software
+- [x] 🎓 Concluir graduação em Engenharia de Software
 - [ ] 🔗 Personalizar a ISO do ubuntu 24 [OS_Saracura](https://github.com/OgliariNatan/saracura-operating-system-customization)
-- [ ] 💼 Implementar soluções funcionais em instituições
+- [x] 💼 Implementar soluções funcionais em instituições
 
 ---
 
