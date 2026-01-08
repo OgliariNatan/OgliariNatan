@@ -133,16 +133,19 @@ class OgliariNatan:
             'simulacao': ['LTspice', 'Proteus ARES'],
         }
 
-    def current_focus(self):
-        return [
+    def current_focus(self): -> str
+
+        contexto = {
             "Realizando uma incursão no iceberg do Django",
             "Desenvolvendo projetos para automações de tarefas",
             "Desenvolvendo uma Plataforma como Serviço para a comarca de Maravilha/SC",
             "Melhorando inglês para conversação",
             "Contribuindo para projetos open source"
-        ]
+        }
+        
+        return contexto
 
-    def __str__(self):
+    def __str__(self): -> str
         return f"{self.name} - Engenheiro de Software & Hardware"
 
 if __name__ == '__main__':
