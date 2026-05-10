@@ -10,10 +10,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-ogliari-526591bb)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/OgliariNatan)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://ogliariNatan.github.io)
-[![Wakatime](https://wakatime.com/badge/user/4ae96e12-8d84-4387-8ef7-419d5c72ebce.svg)](https://wakatime.com/@4ae96e12-8d84-4387-8ef7-419d5c72ebce)
+
 
 </div>
 
@@ -195,7 +195,7 @@ if __name__ == '__main__':
 ## 🎯 Objetivos para 2025-2027
 
 - [ ] 🌐 Alcançar fluência conversacional em inglês
-- [ ] 🏗️ Finalizar sistema com o judiciário. [Software como Serviço PIEVDCS](https://www.redecontraaviolencia.org)
+- [x] 🏗️ Finalizar sistema com o judiciário. [Software como Serviço PIEVDCS](https://www.redecontraaviolencia.org)
 - [ ] 📚 Contribuir para 2 projetos open source 
 - [x] 🎓 Concluir graduação em Engenharia de Software
 - [ ] 🔗 Personalizar a ISO do ubuntu 24 [OS_Saracura](https://github.com/OgliariNatan/saracura-operating-system-customization)
